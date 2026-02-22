@@ -16,5 +16,5 @@ Este repositorio contiene la arquitectura de control y comunicación serial para
 <img width="748" height="515" alt="imagen" src="https://github.com/user-attachments/assets/4b268e7f-8071-448f-8fff-d185108e2377" />
 
 ## 📄 Documentación Extendida
-Para un análisis profundo del desarrollo, diagramas de conexión y arquitectura, revisa (https://github.com/user-attachments/files/25464813/Reporte.Practica.sensor.de.temperatura.y.Nextion.pdf)
+Para un análisis profundo del desarrollo, diagramas de conexión y arquitectura, revisa (https://github.com/user-attachments/files/25464813/Reporte.Practica.sensor.de.temperatura.y.Nextion.pdf) 
 
